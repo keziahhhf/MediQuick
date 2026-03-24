@@ -1,4 +1,4 @@
-##Features
+## Features
 Symptom Analysis – Enter your symptoms and get instant advice:
  Emergency – Go to hospital immediately
  Moderate – Visit a doctor soon
@@ -15,7 +15,7 @@ Interactive Map UI – Stunning map interface using Leaflet.js with highlighted 
 
 <img width="1255" height="594" alt="Screenshot 2026-03-24 231910" src="https://github.com/user-attachments/assets/3850a650-a48e-4ab7-b90a-f9a684a1c5af" />
 
-##Tech Stack
+## Tech Stack
 Frontend – React.js, React-Leaflet, Tailwind CSS
 Backend – Node.js, Express
 Data – OpenStreetMap
