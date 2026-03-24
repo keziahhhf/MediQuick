@@ -6,14 +6,31 @@ Symptom Analysis – Enter your symptoms and get instant advice:
 
 
  Emergency – Go to hospital immediately
+
+
  Moderate – Visit a doctor soon
+
+
  Mild – Home care is fine for now
+
+
 Nearby Hospitals – Find hospitals near your location:
+
+
 Marked on an interactive map
+
+
 Nearest hospital highlighted 
+
 Hospital details: Name, Address, Rating
+
+
 Add Hospitals – Users can add hospitals dynamically for testing/demo purposes.
+
+
 Search Functionality – Quickly search hospitals by name or location.
+
+
 Interactive Map UI – Stunning map interface using Leaflet.js with highlighted markers.
 
 
